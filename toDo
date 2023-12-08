@@ -1,0 +1,31 @@
+implment notifehandle request notification and redirect notification via notifiee
+
+
+
+documen picker change 
+
+check BottonSheet not working in cli : done 
+
+expo video  change : done but still need other package to desplay this video 
+
+
+start with deep linking 
+
+ npx uri-scheme open http://pac/home --android
+
+
+
+patch with id 
+check src/navigation/Linking.js
+ npx uri-scheme open http://pac/test/23 --android
+
+
+ to change react-natve maps to npm i leaflet
+
+
+ floow image : linking url 
+
+  npx uri-scheme open http://pac/FollowPhoto/be7572d9-f6ef-479c-af45-ca06967321db --android
+
+condidature 
+   npx uri-scheme open  tde://pac/Detail/b485188f-7a19-4eb5-9df6-be720625191c --android

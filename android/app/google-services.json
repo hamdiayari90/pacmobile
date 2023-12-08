@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1021046841431",
+    "project_id": "pac1-34a9a",
+    "storage_bucket": "pac1-34a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021046841431:android:1c711499d98faf94604312",
+        "android_client_info": {
+          "package_name": "com.planning.tde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021046841431-g33lmfi148jbgjkrt2aj9uqd71nt8sav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE2pkEDOU615GghZeyR8flUYMAMRxecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021046841431-g33lmfi148jbgjkrt2aj9uqd71nt8sav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021046841431-or59brdq4nppatu553h4da5u7edncr14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.planning.tde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
